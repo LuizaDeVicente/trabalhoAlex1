@@ -1,0 +1,25 @@
+* {
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+p{
+    position: relative;;
+    color: white;
+    text-align: center;
+    top: 10vw;
+    font-size: 40px;
+}
+.img {
+    width: 200px;
+    border-radius: 15px;
+}
+
+#imagem{
+    margin-top: 15vw;
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    flex-wrap: wrap;
+}

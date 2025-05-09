@@ -1,0 +1,39 @@
+*{
+    top: 0;
+}
+
+body{
+    padding: 0px;
+    top: 0;
+    margin: 0;
+    color: aliceblue;
+    background-color: black;
+}
+img{
+    width: 480px;
+}
+#imagem2{
+    margin-left: 50px;
+    position: relative;
+    bottom: 450px;
+
+}
+article{
+    margin-left: 555px;
+    font-size: 70px;
+    position: relative;
+    top: 40px;
+}
+#genero{
+    position: relative;
+    margin-left: 550px;
+    top: -700px;
+}
+#texto{
+    text-align: justify;
+    font-size: 18px;
+    position: relative;
+    margin-left: 550px;
+    top: -700px;
+    width:800px;
+}
